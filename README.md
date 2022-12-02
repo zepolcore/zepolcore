@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zepolcore
 - 👀 I’m interested in medical sciences
-- 🌱 I’m currently learning HTML, JavaScript, CSS, React, Angular, NodeJS, Python
+- 🌱 I’m currently learning HTML, CSS, Python, Java
 - 💞️ I’m looking to collaborate with everybody
 - 📫 How to reach me Martinlopezutn@gmail.com
 
