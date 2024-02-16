@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @zepolcore
-- 👀 I’m interested in medical sciences
 - 🌱 I’m currently learning HTML, CSS, Java, Spring, Springboot, Microservicios
 - 💞️ I’m looking to collaborate with everybody
 - 📫 How to reach me Martinlopezutn@gmail.com
