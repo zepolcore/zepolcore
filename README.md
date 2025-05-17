@@ -5,12 +5,10 @@ Soy un apasionado desarrollador Java con experiencia en la creación de aplicaci
 
 #### Habilidades técnicas:
 
-- **Lenguajes**: C++, Java, JavaScript, Assembler.
+- **Lenguajes**: Java, Assembler.
 - **Bases de datos**: MySQL, PostgreSQL.
-- **Frameworks**: Spring Boot, Angular.
-- **APIs y Servicios Web**: RESTful, GraphQL.
-- **Seguridad y Autenticación**: OAuth2, JWT.
-- **Automatización y Despliegue**: Docker, Jenkins.
+- **Frameworks**: Spring Boot.
+- **Seguridad y Autenticación**: JWT.
 - **Control de versiones**: Git.
 
 ###
